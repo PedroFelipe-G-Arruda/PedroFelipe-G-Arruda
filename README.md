@@ -1,6 +1,6 @@
 # Pedro Felipe Gonçalves de Arruda
 
-### Welcom my to profile
+### Welcome my to profile
 
 
 <a href="https://github.com/PedroFelipe-G-Arruda">
