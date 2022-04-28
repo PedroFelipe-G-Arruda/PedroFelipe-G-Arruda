@@ -1,8 +1,11 @@
-# Pedro Felipe Gonçalves de Arruda
+# Olar! sou Pedro Felipe entusiasta por tecnologia.
 
-### Welcome my to profile
+- 💻 Trainee de Engenharia de Dados
+- 📚 Estudante de Engenharia da Conputação
 
-
-<a href="https://github.com/PedroFelipe-G-Arruda">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PedroFelipe-G-Arruda&layout=compact&theme=radical" />
-</a>
+<div aling="center">
+  <a href="https://github.com/PedroFelipe-G-Arruda">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=PedroFelipe-G-Arruda&show_icons=true&theme=radical" />
+    <img height="180em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PedroFelipe-G-Arruda&layout=compact&theme=radical" />
+  </a>
+</di>
