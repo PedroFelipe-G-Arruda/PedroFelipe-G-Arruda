@@ -4,9 +4,6 @@
 - 📚 Estudante de Engenharia da Conputação
 
 ### BADGES
-
-[![Microsoft Certified: Azure Data Fundamentals](https://images.credly.com/size/120x120/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/earner/earned/badge/60f86007-a52f-4e05-a41c-5835cea35df2 "Microsoft Certified: Azure Data Fundamentals")
-
 <div aling="center">
     
   <a href="https://www.credly.com/earner/earned/badge/60f86007-a52f-4e05-a41c-5835cea35df2">
