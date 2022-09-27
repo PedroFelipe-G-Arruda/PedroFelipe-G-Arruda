@@ -3,7 +3,20 @@
 - 💻 Trainee de Engenharia de Dados
 - 📚 Estudante de Engenharia da Conputação
 
+### BADGES
+
+[![Microsoft Certified: Azure Data Fundamentals](https://images.credly.com/size/120x120/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/earner/earned/badge/60f86007-a52f-4e05-a41c-5835cea35df2 "Microsoft Certified: Azure Data Fundamentals")
+
 <div aling="center">
+    
+  <a href="https://www.credly.com/earner/earned/badge/60f86007-a52f-4e05-a41c-5835cea35df2">
+    <img src = "https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" height="120" width="120">
+  </a>
+  
+  <a href="https://www.credly.com/badges/88c6e35c-a0ab-47d5-9729-a41ed4ad24a9/public_url">
+    <img src = "https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" height="120" width="120">
+  </a>
+  
   <a href="https://credentials.databricks.com/19481447-930c-4ce5-9a18-2edae138e53a">
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/59066780" height="120" width="120">
   </a>
