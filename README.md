@@ -1,6 +1,6 @@
 # Olar! sou Pedro Felipe entusiasta por tecnologia.
 
-- 💻 Trainee de Engenharia de Dados
+- 💻 Engenharia de Dados Jr.
 - 📚 Estudante de Engenharia da Conputação
 
 ### BADGES
