@@ -19,8 +19,6 @@
   </a>
 </div>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="60f86007-a52f-4e05-a41c-5835cea35df2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 <div aling="center">
   <a href="https://github.com/PedroFelipe-G-Arruda">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=PedroFelipe-G-Arruda&show_icons=true&theme=radical" />
