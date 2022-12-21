@@ -15,7 +15,7 @@
   </a>
   
   <a href="https://credentials.databricks.com/19481447-930c-4ce5-9a18-2edae138e53a">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/59066780" height="120" width="120">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/64992895" height="120" width="120">
   </a>
 </div>
 
