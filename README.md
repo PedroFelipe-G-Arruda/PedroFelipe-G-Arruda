@@ -1,6 +1,7 @@
 # Olar! sou Pedro Felipe entusiasta por tecnologia.
 
 - 💻 Engenharia de Dados Jr.
+- Desenvolvedor de firmware
 - 📚 Estudante de Engenharia da Computação
 
 ### BADGES
